@@ -2,10 +2,9 @@
 	"basics": {
 		"name": "Dhruvjeet verma",
 		"label": "Student",
-		"picture": "", 
+		"picture": "https://avatars.githubusercontent.com/u/88131511?s=400&u=d6d76866a1b65a9922be59900317952798b7337a&v=4", 
 		"email": "2020kucp1012@iiitkota.ac.in",
 		"phone": "9565465954",
-		"website": "", 
 		"summary": "I'M a student of indian institute of information technology kota(india),persuing my B.tech in CSE",
 		"location": {
 			"address": "SULHEPUR RAMPUR BHAGAN BIKAPUR FAIZABAD",
@@ -37,22 +36,13 @@
 		]
 	},
 	"work": [{
-		"company": "",
-		"position": "",
-		"website": "",
-		"startDate": "",
-		"endDate": " ",
-		"summary": " ",
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "20/01/2020",
+		"endDate": " ----",
+		"summary": "---",
 		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "",
-		"position": "",
-		"website": "",
-		"startDate": "",
-		"endDate": "",
-		"summary": "",
-		"highlights": []
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
@@ -64,16 +54,6 @@
 		"courses": [
 			"Computer Science & Engineering"
 		]
-	}],
-	"awards": [{
-		"title":"",
-		"awarder": "",
-		"date": ""
-	}],
-	"publications": [{
-		"title": "",
-		"details": "",
-		"link": ""
 	}],
 	"skills": [{
 		"level": "Master",
