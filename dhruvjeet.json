@@ -2,10 +2,10 @@
 	"basics": {
 		"name": "Dhruvjeet verma",
 		"label": "Student",
-		"picture": "https://github.com/Dhruv907/Dhruv907.git",
+		"picture": "",
 		"email": "2020kucp1012@iiitkota.ac.in",
 		"phone": "9565465954",
-		"website": "---Enter Link of website(if any) ---",
+		"website": ""
 		"summary": "I'M a student of indian institute of information technology kota(india),persuing my B.tech in CSE",
 		"location": {
 			"address": "SULHEPUR RAMPUR BHAGAN BIKAPUR FAIZABAD",
@@ -37,21 +37,21 @@
 		]
 	},
 	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
+		"company": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": " ",
+		"summary": " ",
 		"highlights": ["Add Highlights", "Your work details"]
 	}],
 	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
+		"organization": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
 		"highlights": []
 	}],
 	"education": [{
@@ -59,29 +59,29 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2020-12-02 //Date",
-		"endDate": "----",
+		"endDate": "30/04/2024",
 		"gpa": "---Add your CGPA ---",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
 	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
+		"title":"",
+		"awarder": "",
+		"date": ""
 	}],
 	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
+		"title": "",
+		"details": "",
+		"link": ""
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "php"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Chess", "Badminton,cricket"]
 	}],
 	"references": []
 }
