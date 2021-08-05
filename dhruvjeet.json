@@ -2,10 +2,10 @@
 	"basics": {
 		"name": "Dhruvjeet verma",
 		"label": "Student",
-		"picture": "",
+		"picture": "", 
 		"email": "2020kucp1012@iiitkota.ac.in",
 		"phone": "9565465954",
-		"website": ""
+		"website": "", 
 		"summary": "I'M a student of indian institute of information technology kota(india),persuing my B.tech in CSE",
 		"location": {
 			"address": "SULHEPUR RAMPUR BHAGAN BIKAPUR FAIZABAD",
